@@ -16,11 +16,11 @@ Natural language processing in python with Korean description
 4. 문서 분류(Document Classification).ipynb
 5. 의미 연결망 분석(Semantic Network Analysis).ipynb
 6. 토픽 모델링(Topic Modeling).ipynb
-7. 임베딩(Embedding).ipynb
-7-1. 케라스 Word2Vec 구현.ipynb
+7. 임베딩(Embedding).ipynb<br>
+7.1. 케라스 Word2Vec 구현.ipynb
 8. 순환 신경망(Recurrent Neural Network).ipynb
-9. 합성곱 신경망(Convolution Neural Network).ipynb
-9-1. CNN 스팸 메일 분류.ipynb
+9. 합성곱 신경망(Convolution Neural Network).ipynb<br>
+9.1. CNN 스팸 메일 분류.ipynb
 10. 감정 분석(Sentiment Analysis).ipynb
 11. 개체명 인식(Named Entity Recognition).ipynb
 12. RNN 인코더 디코더.ipynb
@@ -32,6 +32,5 @@ Natural language processing in python with Korean description
 
 
 ## 예시
-![스크린샷 2020-11-05 오후 11 15 32](https://user-images.githubusercontent.com/42991070/98252167-f46c8f00-1fbc-11eb-8e54-12d9a33f76dd.png)
-![스크린샷 2020-11-05 오후 11 17 34](https://user-images.githubusercontent.com/42991070/98252338-254cc400-1fbd-11eb-8669-e5b91a1f1483.png)
-![스크린샷 2020-11-05 오후 11 15 08](https://user-images.githubusercontent.com/42991070/98252183-f8001600-1fbc-11eb-8377-00b2eab61112.png)
+![스크린샷 2020-12-01 오후 3 51 10](https://user-images.githubusercontent.com/42991070/100707262-bad94900-33ed-11eb-924a-2432ec0981f3.png)
+![스크린샷 2020-12-01 오후 3 51 01](https://user-images.githubusercontent.com/42991070/100707263-bc0a7600-33ed-11eb-8e59-44666a63415e.png)

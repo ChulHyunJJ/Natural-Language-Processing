@@ -10,7 +10,7 @@ Natural language processing in python with Korean description
 
 ## 파일 내용
 - 수업 자료
-1. 자연어 처리(Natural Language Processing).ipynb
+&nbsp;&nbsp;&nbsp;[1. 자연어 처리(Natural Language Processing).ipynb](https://www.youtube.com/watch?v=2e9wnwuAVv0&list=PL7ZVZgsnLwEEoHQAElEPg7l7T6nt25I3N)<br>
 2. 키워드 분석(Keyword Analysis).ipynb
 3. 군집 분석(Cluster Analysis).ipynb
 4. 문서 분류(Document Classification).ipynb

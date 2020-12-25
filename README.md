@@ -11,16 +11,16 @@ Natural language processing in python with Korean description
 - Google Colab
 
 ## 파일 내용
-- 수업 자료
+- 수업 자료<br>
 &nbsp;&nbsp;&nbsp;[1. 자연어 처리(Natural Language Processing).ipynb](https://www.youtube.com/watch?v=2e9wnwuAVv0&list=PL7ZVZgsnLwEEoHQAElEPg7l7T6nt25I3N)<br>
 &nbsp;&nbsp;&nbsp;[2. 키워드 분석(Keyword Analysis).ipynb](https://www.youtube.com/watch?v=5P6nG8xHKbU&list=PL7ZVZgsnLwEEoHQAElEPg7l7T6nt25I3N&index=2)<br>
 &nbsp;&nbsp;&nbsp;[3. 군집 분석(Cluster Analysis).ipynb](https://www.youtube.com/watch?v=YJSHBQj8zbU&list=PL7ZVZgsnLwEEoHQAElEPg7l7T6nt25I3N&index=3)<br>
 &nbsp;&nbsp;&nbsp;[4. 문서 분류(Document Classification).ipynb](https://www.youtube.com/watch?v=xegxbgsnYko&list=PL7ZVZgsnLwEEoHQAElEPg7l7T6nt25I3N&index=4)<br>
 &nbsp;&nbsp;&nbsp;[5. 의미 연결망 분석(Semantic Network Analysis).ipynb](https://www.youtube.com/watch?v=jnoKa44OZv8&list=PL7ZVZgsnLwEEoHQAElEPg7l7T6nt25I3N&index=5)<br>
 &nbsp;&nbsp;&nbsp;[6. 토픽 모델링(Topic Modeling).ipynb](https://www.youtube.com/watch?v=Xt607xhpF6U&list=PL7ZVZgsnLwEEoHQAElEPg7l7T6nt25I3N&index=6)<br>
-&nbsp;&nbsp;&nbsp;[7. 임베딩(Embedding).ipynb<br>](https://www.youtube.com/watch?v=hR8Rvp-YNGg&list=PL7ZVZgsnLwEEoHQAElEPg7l7T6nt25I3N&index=7)<br>
-&nbsp;&nbsp;&nbsp;[7.1. 케라스 Word2Vec 구현.ipynb](https://www.youtube.com/watch?v=L4p-ju44spQ&list=PL7ZVZgsnLwEEoHQAElEPg7l7T6nt25I3N&index=10)<br>
-&nbsp;&nbsp;&nbsp;[8. 순환 신경망(Recurrent Neural Network).ipynb](https://www.youtube.com/watch?v=hGuUFVZ_tSs&list=PL7ZVZgsnLwEEoHQAElEPg7l7T6nt25I3N&index=8)<br>
+&nbsp;&nbsp;&nbsp;[7. 임베딩(Embedding).ipynb](https://www.youtube.com/watch?v=hR8Rvp-YNGg&list=PL7ZVZgsnLwEEoHQAElEPg7l7T6nt25I3N&index=7)
+&nbsp;&nbsp;&nbsp;[7.1. 케라스 Word2Vec 구현.ipynb](https://www.youtube.com/watch?v=L4p-ju44spQ&list=PL7ZVZgsnLwEEoHQAElEPg7l7T6nt25I3N&index=10)
+&nbsp;&nbsp;&nbsp;[8. 순환 신경망(Recurrent Neural Network).ipynb](https://www.youtube.com/watch?v=hGuUFVZ_tSs&list=PL7ZVZgsnLwEEoHQAElEPg7l7T6nt25I3N&index=8)
 &nbsp;&nbsp;&nbsp;[9. 합성곱 신경망(Convolution Neural Network).ipynb](https://www.youtube.com/watch?v=2oFx3DPf_Uo&list=PL7ZVZgsnLwEEoHQAElEPg7l7T6nt25I3N&index=9)<br>
 &nbsp;&nbsp;&nbsp;[9.1. CNN 스팸 메일 분류.ipynb](https://www.youtube.com/watch?v=QejZQ0Dh5x8&list=PL7ZVZgsnLwEEoHQAElEPg7l7T6nt25I3N&index=11)<br>
 &nbsp;&nbsp;&nbsp;[10. 감정 분석(Sentiment Analysis).ipynb](https://www.youtube.com/watch?v=7GUoDHxN5NM&list=PL7ZVZgsnLwEEoHQAElEPg7l7T6nt25I3N&index=12)<br>
